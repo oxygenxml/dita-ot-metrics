@@ -22,7 +22,9 @@ A short description of each reported metric can be found below:
   - Tables containing list of largest and smallest topics and the number of words each one used.
   - Table containing a listing of all links to resources outside of the project.
 
-## License
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
 
 This project is licensed under MPL 2.0, see the [LICENSE](LICENSE) file for details.
 
