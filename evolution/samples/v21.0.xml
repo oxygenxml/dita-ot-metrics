@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oxyd:report xmlns:oxyd="http://www.oxygenxml.com/ns/dita"
+             rootMap="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/UserManual.ditamap">
+   <oxyd:stats>
+      <oxyd:overview>
+         <oxyd:maps>47</oxyd:maps>
+         <oxyd:uniqueMaps>44</oxyd:uniqueMaps>
+         <oxyd:topics>3031</oxyd:topics>
+         <oxyd:uniqueTopics>2105</oxyd:uniqueTopics>
+      </oxyd:overview>
+      <oxyd:infoTypes>
+         <oxyd:mapInfoTypes>
+            <oxyd:element name="map" count="45"/>
+            <oxyd:element name="bookmap" count="1"/>
+            <oxyd:element name="subjectScheme" count="1"/>
+         </oxyd:mapInfoTypes>
+         <oxyd:topicInfoTypes>
+            <oxyd:element name="topic" count="2725"/>
+            <oxyd:element name="task" count="153"/>
+            <oxyd:element name="troubleshooting" count="69"/>
+            <oxyd:element name="concept" count="42"/>
+            <oxyd:element name="glossentry" count="41"/>
+         </oxyd:topicInfoTypes>
+      </oxyd:infoTypes>
+      <oxyd:elements>
+         <oxyd:elementsData>
+            <oxyd:totalElements>220793</oxyd:totalElements>
+            <oxyd:uniqueElements>138</oxyd:uniqueElements>
+            <oxyd:totalMapElements>3826</oxyd:totalMapElements>
+            <oxyd:uniqueMapElements>35</oxyd:uniqueMapElements>
+            <oxyd:totalTopicElements>216967</oxyd:totalTopicElements>
+            <oxyd:uniqueTopicElements>111</oxyd:uniqueTopicElements>
+         </oxyd:elementsData>
+         <oxyd:mapElements>
+            <oxyd:mapElement count="2996">topicref</oxyd:mapElement>
+            <oxyd:mapElement count="170">topicmeta</oxyd:mapElement>
+            <oxyd:mapElement count="151">keydef</oxyd:mapElement>
+            <oxyd:mapElement count="97">shortdesc</oxyd:mapElement>
+            <oxyd:mapElement count="56">keywords</oxyd:mapElement>
+            <oxyd:mapElement count="56">keyword</oxyd:mapElement>
+            <oxyd:mapElement count="45">data</oxyd:mapElement>
+            <oxyd:mapElement count="45">map</oxyd:mapElement>
+            <oxyd:mapElement count="40">glossref</oxyd:mapElement>
+            <oxyd:mapElement count="31">ph</oxyd:mapElement>
+            <oxyd:mapElement count="31">chapter</oxyd:mapElement>
+            <oxyd:mapElement count="24">title</oxyd:mapElement>
+            <oxyd:mapElement count="19">subjectdef</oxyd:mapElement>
+            <oxyd:mapElement count="15">linktext</oxyd:mapElement>
+            <oxyd:mapElement count="9">mapref</oxyd:mapElement>
+            <oxyd:mapElement count="8">uicontrol</oxyd:mapElement>
+            <oxyd:mapElement count="7">navtitle</oxyd:mapElement>
+            <oxyd:mapElement count="4">enumerationdef</oxyd:mapElement>
+            <oxyd:mapElement count="4">attributedef</oxyd:mapElement>
+            <oxyd:mapElement count="2">booktitlealt</oxyd:mapElement>
+            <oxyd:mapElement count="2">booklists</oxyd:mapElement>
+            <oxyd:mapElement count="1">bookmap</oxyd:mapElement>
+            <oxyd:mapElement count="1">booktitle</oxyd:mapElement>
+            <oxyd:mapElement count="1">mainbooktitle</oxyd:mapElement>
+            <oxyd:mapElement count="1">bookmeta</oxyd:mapElement>
+            <oxyd:mapElement count="1">prodinfo</oxyd:mapElement>
+            <oxyd:mapElement count="1">prodname</oxyd:mapElement>
+            <oxyd:mapElement count="1">frontmatter</oxyd:mapElement>
+            <oxyd:mapElement count="1">subjectScheme</oxyd:mapElement>
+            <oxyd:mapElement count="1">hasInstance</oxyd:mapElement>
+            <oxyd:mapElement count="1">tm</oxyd:mapElement>
+            <oxyd:mapElement count="1">toc</oxyd:mapElement>
+            <oxyd:mapElement count="1">backmatter</oxyd:mapElement>
+            <oxyd:mapElement count="1">indexlist</oxyd:mapElement>
+            <oxyd:mapElement count="1">notices</oxyd:mapElement>
+         </oxyd:mapElements>
+         <oxyd:topicElements>
+            <oxyd:topicEelement count="35105">uicontrol</oxyd:topicEelement>
+            <oxyd:topicEelement count="15949">p</oxyd:topicEelement>
+            <oxyd:topicEelement count="14406">li</oxyd:topicEelement>
+            <oxyd:topicEelement count="11793">xref</oxyd:topicEelement>
+            <oxyd:topicEelement count="9819">dd</oxyd:topicEelement>
+            <oxyd:topicEelement count="9771">dt</oxyd:topicEelement>
+            <oxyd:topicEelement count="9759">dlentry</oxyd:topicEelement>
+            <oxyd:topicEelement count="9567">codeph</oxyd:topicEelement>
+            <oxyd:topicEelement count="8785">ph</oxyd:topicEelement>
+            <oxyd:topicEelement count="8541">indexterm</oxyd:topicEelement>
+            <oxyd:topicEelement count="8200">title</oxyd:topicEelement>
+            <oxyd:topicEelement count="7252">image</oxyd:topicEelement>
+            <oxyd:topicEelement count="6588">b</oxyd:topicEelement>
+            <oxyd:topicEelement count="5212">term</oxyd:topicEelement>
+            <oxyd:topicEelement count="5050">i</oxyd:topicEelement>
+            <oxyd:topicEelement count="4439">entry</oxyd:topicEelement>
+            <oxyd:topicEelement count="2973">filepath</oxyd:topicEelement>
+            <oxyd:topicEelement count="2808">topic</oxyd:topicEelement>
+            <oxyd:topicEelement count="2797">body</oxyd:topicEelement>
+            <oxyd:topicEelement count="2689">ul</oxyd:topicEelement>
+            <oxyd:topicEelement count="2573">section</oxyd:topicEelement>
+            <oxyd:topicEelement count="2438">note</oxyd:topicEelement>
+            <oxyd:topicEelement count="2429">codeblock</oxyd:topicEelement>
+            <oxyd:topicEelement count="2322">prolog</oxyd:topicEelement>
+            <oxyd:topicEelement count="2322">metadata</oxyd:topicEelement>
+            <oxyd:topicEelement count="2322">keywords</oxyd:topicEelement>
+            <oxyd:topicEelement count="1949">shortcut</oxyd:topicEelement>
+            <oxyd:topicEelement count="1867">menucascade</oxyd:topicEelement>
+            <oxyd:topicEelement count="1864">dl</oxyd:topicEelement>
+            <oxyd:topicEelement count="1478">link</oxyd:topicEelement>
+            <oxyd:topicEelement count="1440">fig</oxyd:topicEelement>
+            <oxyd:topicEelement count="1372">row</oxyd:topicEelement>
+            <oxyd:topicEelement count="1134">ol</oxyd:topicEelement>
+            <oxyd:topicEelement count="1015">cmd</oxyd:topicEelement>
+            <oxyd:topicEelement count="875">step</oxyd:topicEelement>
+            <oxyd:topicEelement count="810">related-links</oxyd:topicEelement>
+            <oxyd:topicEelement count="810">linklist</oxyd:topicEelement>
+            <oxyd:topicEelement count="495">stentry</oxyd:topicEelement>
+            <oxyd:topicEelement count="390">xmlelement</oxyd:topicEelement>
+            <oxyd:topicEelement count="314">u</oxyd:topicEelement>
+            <oxyd:topicEelement count="239">colspec</oxyd:topicEelement>
+            <oxyd:topicEelement count="229">info</oxyd:topicEelement>
+            <oxyd:topicEelement count="214">xmlatt</oxyd:topicEelement>
+            <oxyd:topicEelement count="209">linktext</oxyd:topicEelement>
+            <oxyd:topicEelement count="186">area</oxyd:topicEelement>
+            <oxyd:topicEelement count="186">shape</oxyd:topicEelement>
+            <oxyd:topicEelement count="186">coords</oxyd:topicEelement>
+            <oxyd:topicEelement count="178">stepresult</oxyd:topicEelement>
+            <oxyd:topicEelement count="172">userinput</oxyd:topicEelement>
+            <oxyd:topicEelement count="157">task</oxyd:topicEelement>
+            <oxyd:topicEelement count="156">steps</oxyd:topicEelement>
+            <oxyd:topicEelement count="155">taskbody</oxyd:topicEelement>
+            <oxyd:topicEelement count="152">strow</oxyd:topicEelement>
+            <oxyd:topicEelement count="151">context</oxyd:topicEelement>
+            <oxyd:topicEelement count="140">substep</oxyd:topicEelement>
+            <oxyd:topicEelement count="136">abbreviated-form</oxyd:topicEelement>
+            <oxyd:topicEelement count="130">table</oxyd:topicEelement>
+            <oxyd:topicEelement count="130">tgroup</oxyd:topicEelement>
+            <oxyd:topicEelement count="130">tbody</oxyd:topicEelement>
+            <oxyd:topicEelement count="119">thead</oxyd:topicEelement>
+            <oxyd:topicEelement count="112">object</oxyd:topicEelement>
+            <oxyd:topicEelement count="112">param</oxyd:topicEelement>
+            <oxyd:topicEelement count="98">shortdesc</oxyd:topicEelement>
+            <oxyd:topicEelement count="75">troubleSolution</oxyd:topicEelement>
+            <oxyd:topicEelement count="75">remedy</oxyd:topicEelement>
+            <oxyd:topicEelement count="74">sectiondiv</oxyd:topicEelement>
+            <oxyd:topicEelement count="74">kwd</oxyd:topicEelement>
+            <oxyd:topicEelement count="73">sep</oxyd:topicEelement>
+            <oxyd:topicEelement count="71">steps-informal</oxyd:topicEelement>
+            <oxyd:topicEelement count="69">troubleshooting</oxyd:topicEelement>
+            <oxyd:topicEelement count="69">troublebody</oxyd:topicEelement>
+            <oxyd:topicEelement count="69">condition</oxyd:topicEelement>
+            <oxyd:topicEelement count="67">tm</oxyd:topicEelement>
+            <oxyd:topicEelement count="58">cause</oxyd:topicEelement>
+            <oxyd:topicEelement count="49">pd</oxyd:topicEelement>
+            <oxyd:topicEelement count="48">substeps</oxyd:topicEelement>
+            <oxyd:topicEelement count="45">plentry</oxyd:topicEelement>
+            <oxyd:topicEelement count="45">pt</oxyd:topicEelement>
+            <oxyd:topicEelement count="44">itemgroup</oxyd:topicEelement>
+            <oxyd:topicEelement count="42">concept</oxyd:topicEelement>
+            <oxyd:topicEelement count="42">conbody</oxyd:topicEelement>
+            <oxyd:topicEelement count="41">glossentry</oxyd:topicEelement>
+            <oxyd:topicEelement count="41">glossterm</oxyd:topicEelement>
+            <oxyd:topicEelement count="41">glossdef</oxyd:topicEelement>
+            <oxyd:topicEelement count="35">choice</oxyd:topicEelement>
+            <oxyd:topicEelement count="35">titlealts</oxyd:topicEelement>
+            <oxyd:topicEelement count="35">navtitle</oxyd:topicEelement>
+            <oxyd:topicEelement count="26">result</oxyd:topicEelement>
+            <oxyd:topicEelement count="26">div</oxyd:topicEelement>
+            <oxyd:topicEelement count="25">option</oxyd:topicEelement>
+            <oxyd:topicEelement count="22">imagemap</oxyd:topicEelement>
+            <oxyd:topicEelement count="20">syntaxdiagram</oxyd:topicEelement>
+            <oxyd:topicEelement count="20">groupseq</oxyd:topicEelement>
+            <oxyd:topicEelement count="18">prereq</oxyd:topicEelement>
+            <oxyd:topicEelement count="11">lines</oxyd:topicEelement>
+            <oxyd:topicEelement count="10">choices</oxyd:topicEelement>
+            <oxyd:topicEelement count="10">alt</oxyd:topicEelement>
+            <oxyd:topicEelement count="10">postreq</oxyd:topicEelement>
+            <oxyd:topicEelement count="8">parml</oxyd:topicEelement>
+            <oxyd:topicEelement count="8">q</oxyd:topicEelement>
+            <oxyd:topicEelement count="7">simpletable</oxyd:topicEelement>
+            <oxyd:topicEelement count="7">sthead</oxyd:topicEelement>
+            <oxyd:topicEelement count="7">systemoutput</oxyd:topicEelement>
+            <oxyd:topicEelement count="4">stepsection</oxyd:topicEelement>
+            <oxyd:topicEelement count="3">cite</oxyd:topicEelement>
+            <oxyd:topicEelement count="2">bodydiv</oxyd:topicEelement>
+            <oxyd:topicEelement count="2">steps-unordered</oxyd:topicEelement>
+            <oxyd:topicEelement count="2">cmdname</oxyd:topicEelement>
+            <oxyd:topicEelement count="1">glossBody</oxyd:topicEelement>
+            <oxyd:topicEelement count="1">glossAlt</oxyd:topicEelement>
+            <oxyd:topicEelement count="1">glossAcronym</oxyd:topicEelement>
+         </oxyd:topicElements>
+      </oxyd:elements>
+      <oxyd:domainAnalysis>
+         <oxyd:domain name="highlightDomain" hits="3" elements="6">
+            <oxyd:element count="6588" name="b">The bold (&lt;b&gt;) element is used to apply bold highlighting to the content
+        of the element. Use this element only when there is not some other more proper element. For
+        example, for specific items such as GUI controls, use the &lt;uicontrol&gt; element. This
+        element is part of the DITA highlighting domain. 
+        Category: Typographic elements</oxyd:element>
+            <oxyd:element count="314" name="u">The underline (&lt;u&gt;) element is used to apply underline highlighting to the
+        content of the element. 
+        Category: Typographic elements</oxyd:element>
+            <oxyd:element count="5050" name="i">The italic (&lt;i&gt;) element is used to apply italic highlighting to the
+        content of the element. 
+        Category: Typographic elements</oxyd:element>
+            <oxyd:element count="0" name="tt"> The teletype (&lt;tt&gt;) element is used to apply monospaced highlighting to
+        the content of the element. 
+        Category: Typographic elements </oxyd:element>
+            <oxyd:element count="0" name="sup">The superscript (&lt;sup&gt;) element indicates that text should be
+        superscripted, or vertically raised in relationship to the surrounding text. Superscripts
+        are usually a smaller font than the surrounding text. Use this element only when there is
+        not some other more proper tag. This element is part of the DITA highlighting domain.
+        Category: Typographic elements</oxyd:element>
+            <oxyd:element count="0" name="sub">A subscript (&lt;sub&gt;) indicates that text should be subscripted, or placed
+        lower in relationship to the surrounding text. Subscripted text is often a smaller font than
+        the surrounding text. Formatting may vary depending on your output process. This element is
+        part of the DITA highlighting domain. Category: Typographic elements</oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="utilitiesDomain" hits="4" elements="4">
+            <oxyd:element count="22" name="imagemap">The imagemap element supports the basic functionality of the HTML client-side
+        image map markup. Imagemap allows you to designate a linkable area or region over an image,
+        allowing a link in that region to display another topic. 
+        Category: Utilities elements</oxyd:element>
+            <oxyd:element count="186" name="area">The area element supports the basic functionality of the HTML image map
+        markup. 
+        Category: Utilities elements</oxyd:element>
+            <oxyd:element count="186" name="shape">The shape element defines the shape of a linkable area in an imagemap.
+        Category: Utilities elements</oxyd:element>
+            <oxyd:element count="186" name="coords">The coords element specifies the coordinates of the linkable region in an
+        imagemap area. 
+        Category: Utilities elements</oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="abbreviateDomain" hits="1" elements="1">
+            <oxyd:element count="136" name="abbreviated-form">The &lt;abbreviated-form&gt; element represents a reference to a term that may
+        appear in an abbreviated form (often an acronym). The long and short forms of the term are
+        generally defined in a &lt;glossentry&gt; topic. Processors should display the referenced term
+        when rendering an &lt;abbreviated-form&gt; element.</oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="glossrefDomain" hits="1" elements="1">
+            <oxyd:element count="40" name="glossref">The &lt;glossref&gt; element is a convenience element for creating a reference
+        to a glossary topic. It has a required keys attribute, which forces the author to create a
+        key by which inline terms may reference their definition. For example, when glossentry
+        topics are used to define acronyms, this will remind authors to create a key which
+        &lt;abbreviated-form&gt; elements may use to reference the short and expanded versions of that
+        acronym.</oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="programmingDomain" hits="11" elements="26">
+            <oxyd:element count="9567" name="codeph">The code phrase (&lt;codeph&gt;) element represents a snippet of code within the main flow of text. The code phrase is displayed in a monospaced font for emphasis. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="2429" name="codeblock">The &lt;codeblock&gt; element represents lines of program code. Like the &lt;pre&gt; element, content of this element has preserved line endings and is output in a monospaced font. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="coderef">The codref element allows a reference to an external file that contains literal code. When evaluated the coderef element should cause the target code to be displayed inline. If the target contains non-XML characters such as &lt; and &amp;amp;, those will need to be handled in a way that they may be displayed correctly by the final rendering engine. </oxyd:element>
+            <oxyd:element count="25" name="option">The &lt;option&gt; element describes an option that can be used to modify a command (or something else, like a configuration). This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="var">Within a syntax diagram, the &lt;var&gt; element defines a variable for which the user must supply content, such as their user name or password. It is represented in output in an italic font. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="parmname">When referencing the name of an application programming interface parameter within the text flow of your topic, use the parameter name (&lt;parmname&gt;) element to markup the parameter. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="synph">The syntax phrase (&lt;synph&gt;) element is a container for syntax definition elements. It is used when a complete syntax diagram is not needed, but some of the syntax elements, such as kwd, oper, delim, are used within the text flow of the topic content. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="oper">The operator (&lt;oper&gt;) element defines an operator within a syntax definition. Typical operators are equals (=), plus (+) or multiply (*). This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="delim">Within a syntax diagram, the delimiter (&lt;delim&gt;) element defines a character marking the beginning or end of a section or part of the complete syntax. Typical delimiter characters are the parenthesis, comma, tab, vertical bar or other special characters. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="73" name="sep">The separator (&lt;sep&gt;) element defines a separator character that is inline with the content of a syntax diagram. The separator occurs between keywords, operators or groups in a syntax definition. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="apiname">The &lt;apiname&gt; element provides the name of an application programming interface (API) such as a Java class name or method name. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="8" name="parml">The parameter list (&lt;parml&gt;) element contains a list of terms and definitions that describes the parameters in an application programming interface. This is a special kind of definition list that is designed for documenting programming parameters. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="45" name="plentry">The parameter list entry element (&lt;plentry&gt;) contains one or more parameter terms and definitions (pd and pt). This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="45" name="pt">A parameter term, within a parameter list entry, is enclosed by the &lt;pt&gt; element. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="49" name="pd">A parameter definition, within a parameter list entry, is enclosed by the &lt;pd&gt; element. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="20" name="syntaxdiagram">The syntax diagram (&lt;syntaxdiagram&gt;) element is the main container for all the syntax elements that make up a syntax definition. The syntax diagram represents the syntax of a statement from a computer language, or a command, function call or programming language statement. Traditionally, the syntax diagram is formatted with railroad tracks that connect the units of the syntax together, but this presentation may differ depending on the output media. The syntax diagram element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="synblk">The syntax block (&lt;synblk&gt;) element organizes small pieces of a syntax definition into a larger piece. The syntax block element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="20" name="groupseq">The &lt;groupseq&gt; element is part of the subset of elements that define syntax diagrams in DITA. A group is a logical set of pieces of syntax that go together. Within the syntax definition, groups of keywords, delimiters and other syntax units act as a combined unit, and they occur in a specific sequence, as delimited by the &lt;groupseq&gt; element. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="groupchoice">The &lt;groupchoice&gt; element is part of the subset of elements that define syntax diagrams in DITA. A group is a logical set of pieces of syntax that go together. A group choice specifies that the user must make a choice about which part of the syntax to use. Groups are often nested. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="groupcomp">The &lt;groupcomp&gt; element is part of the subset of elements that define syntax diagrams in DITA. A group is a logical set of pieces of syntax that go together. The group composite means that the items that make up the syntax diagram will be formatted close together rather than being separated by a horizontal or vertical line, which is the usual formatting method. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="fragment">Within a syntax definition, a &lt;fragment&gt; is a labeled subpart of the syntax. The &lt;fragment&gt; element allows breaking out logical chunks of a large syntax diagram into named fragments. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="fragref">The fragment reference (&lt;fragref&gt;) element provides a logical reference to a syntax definition fragment so that you can reference a syntax fragment multiple times, or pull a large section of syntax out of line for easier reading. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="synnote">The syntax note (&lt;synnote&gt;) element contains a note (similar to a footnote) within a syntax definition group or fragment. The syntax note explains aspects of the syntax that cannot be expressed in the markup itself. The note will appear at the bottom of the syntax diagram instead of at the bottom of the page. The syntax block element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="synnoteref">The syntax note (&lt;synnoteref&gt;) reference element references a syntax note element (&lt;synnote&gt;) that has already been defined elsewhere in the syntax diagram. The same notation can be used in more than one syntax definition. The syntax note reference element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="0" name="repsep">The repeat separator (&lt;repsep&gt;) element in a syntax diagram defines a group of syntax elements that can (or should) be repeated. If the &lt;repsep&gt; element contains a separator character, such as a plus (+), this indicates that the character must be used between repetitions of the syntax elements. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+            <oxyd:element count="74" name="kwd">The &lt;kwd&gt; element defines a keyword within a syntax diagram. A keyword must be typed or output, either by the user or application, exactly as specified in the syntax definition. This element is part of the DITA programming domain, a special set of DITA elements designed to document programming tasks, concepts and reference information.
+    Category: Programming elements
+  </oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="softwareDomain" hits="4" elements="8">
+            <oxyd:element count="0" name="msgph">The message phrase (&lt;msgph&gt;) element contains the text content of a message produced by an application or program. It can also contain the variable name (varname) element to illustrate where variable text content can occur in the message. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="0" name="msgblock">The message block (&lt;msgblock&gt;) element contains a multi-line message or set of messages. The message block can contain multiple message numbers and message descriptions, each enclosed in a &lt;msgnum&gt; and &lt;msgph&gt; element. It can also contain the message content directly. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="0" name="msgnum">The message number (&lt;msgnum&gt;) element contains the number of a message produced by an application or program. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="2" name="cmdname">The command name (&lt;cmdname&gt;) element specifies the name of a command when it is part of a software discussion. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="0" name="varname">The variable name (&lt;varname&gt;) element defines a variable that must be supplied to a software application. The variable name element is very similar to the variable (var) element, but variable name is used outside of syntax diagrams. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="2973" name="filepath">The &lt;filepath&gt; element indicates the name and optionally the location of a referenced file by specifying the directory containing the file, and other directories that may precede it in the system hierarchy. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="172" name="userinput">The user input (&lt;userinput&gt;) element represens the text a user should input in response to a program or system prompt. This element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+            <oxyd:element count="7" name="systemoutput">The system output (&lt;systemoutput&gt;) element represents computer output or responses to a command or situation. A generalized element, it represents any kind of output from the computer, so the author may wish to choose more specific markup, such as msgph, for messages from the application. The system output element is part of the DITA software domain, a special set of DITA elements designed to document software tasks, concepts and reference information.
+    Category: Software elements
+  </oxyd:element>
+         </oxyd:domain>
+         <oxyd:domain name="uiDomain" hits="3" elements="5">
+            <oxyd:element count="35113" name="uicontrol">The user interface control (&lt;uicontrol&gt;) element is used to mark up names
+        of buttons, entry fields, menu items, or other objects that allow the user to control the
+        interface. Use the &lt;uicontrol&gt; element inside a &lt;menucascade&gt; element to identify a
+        sequence of menu choices in a nested menu, such as File New. This element is part of the
+        DITA user interface domain, a special set of DITA elements designed to document user
+        interface tasks, concepts and reference information. 
+        Category: User interface elements</oxyd:element>
+            <oxyd:element count="0" name="wintitle">The window title &lt;wintitle&gt; element can be used to mark up names of
+        windows or dialogs, or other user interface elements at the same level of grouping,
+        including wizard titles, wizard page titles, and window pane titles. This element is part of
+        the DITA user interface domain, a special set of DITA elements designed to document user
+        interface tasks, concepts and reference information. 
+        Category: User interface elements</oxyd:element>
+            <oxyd:element count="1867" name="menucascade">The &lt;menucascade&gt; element is used to document a series of menu choices.
+        The &lt;menucascade&gt; element contains one or more user interface control (&lt;uicontrol&gt;)
+        elements, for example: Start &gt; Programs &gt; Accessories &gt; Notepad. If there is more than one
+        &lt;uicontrol&gt; element, the formatter shows connecting characters between the menu items to
+        represent the menu cascade. This element is part of the DITA user interface domain, a
+        special set of DITA elements designed to document user interface tasks, concepts and
+        reference information. 
+        Category: User interface elements</oxyd:element>
+            <oxyd:element count="1949" name="shortcut">The &lt;shortcut&gt; element identifies a keyboard shortcut for a menu or window
+        action. This element is part of the DITA user interface domain, a special set of DITA
+        elements designed to document user interface tasks, concepts and reference information.
+        Category: User interface elements</oxyd:element>
+            <oxyd:element count="0" name="screen">The &lt;screen&gt; element contains or refers to a textual representation of a
+        computer screen or user interface panel (window). 
+        Category: User interface elements</oxyd:element>
+         </oxyd:domain>
+      </oxyd:domainAnalysis>
+      <oxyd:conrefs>
+         <oxyd:conrefTotalWords>223503</oxyd:conrefTotalWords>
+         <oxyd:conrefTotalElements>41858</oxyd:conrefTotalElements>
+         <oxyd:totalConrefs>6413</oxyd:totalConrefs>
+         <oxyd:conrefElements>
+            <oxyd:conrefElement count="2155">ph</oxyd:conrefElement>
+            <oxyd:conrefElement count="1950">dlentry</oxyd:conrefElement>
+            <oxyd:conrefElement count="502">uicontrol</oxyd:conrefElement>
+            <oxyd:conrefElement count="396">p</oxyd:conrefElement>
+            <oxyd:conrefElement count="334">li</oxyd:conrefElement>
+            <oxyd:conrefElement count="291">shortcut</oxyd:conrefElement>
+            <oxyd:conrefElement count="275">term</oxyd:conrefElement>
+            <oxyd:conrefElement count="188">note</oxyd:conrefElement>
+            <oxyd:conrefElement count="108">section</oxyd:conrefElement>
+            <oxyd:conrefElement count="98">ul</oxyd:conrefElement>
+            <oxyd:conrefElement count="49">dl</oxyd:conrefElement>
+            <oxyd:conrefElement count="27">dd</oxyd:conrefElement>
+            <oxyd:conrefElement count="13">ol</oxyd:conrefElement>
+            <oxyd:conrefElement count="10">sectiondiv</oxyd:conrefElement>
+            <oxyd:conrefElement count="6">codeblock</oxyd:conrefElement>
+            <oxyd:conrefElement count="5">step</oxyd:conrefElement>
+            <oxyd:conrefElement count="2">filepath</oxyd:conrefElement>
+            <oxyd:conrefElement count="2">image</oxyd:conrefElement>
+            <oxyd:conrefElement count="2">topic</oxyd:conrefElement>
+         </oxyd:conrefElements>
+      </oxyd:conrefs>
+      <oxyd:attributes>
+         <oxyd:attributesData>
+            <oxyd:totalAttributes>304718</oxyd:totalAttributes>
+            <oxyd:uniqueAttributes>51</oxyd:uniqueAttributes>
+            <oxyd:totalMapAttributes>9616</oxyd:totalMapAttributes>
+            <oxyd:uniqueMapAttributes>26</oxyd:uniqueMapAttributes>
+            <oxyd:totalTopicAttributes>295102</oxyd:totalTopicAttributes>
+            <oxyd:uniqueTopicAttributes>39</oxyd:uniqueTopicAttributes>
+         </oxyd:attributesData>
+         <oxyd:mapAttributes>
+            <oxyd:mapAttribute count="3826">class</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="3171">href</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="614">collection-type</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="454">product</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="339">copy-to</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="324">keys</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="152">processing-role</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="107">format</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="67">chunk</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="61">scope</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="48">name</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="47">ditaarch:DITAArchVersion</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="47">domains</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="44">toc</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="42">navtitle</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="42">locktitle</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="41">print</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="40">linking</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="40">search</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="34">id</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="26">keyref</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="22">title</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="22">value</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="4">translate</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="1">type</oxyd:mapAttribute>
+            <oxyd:mapAttribute count="1">tmtype</oxyd:mapAttribute>
+         </oxyd:mapAttributes>
+         <oxyd:topicAttributes>
+            <oxyd:topicAttribute count="216967">class</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="19075">id</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="17932">href</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="7627">keyref</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="7252">placement</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="6921">product</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="3117">ditaarch:DITAArchVersion</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="3117">domains</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="2848">format</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="2545">outputclass</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="2440">xml:space</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="1727">scope</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="971">type</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="372">translate</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="243">colname</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="225">colnum</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="221">colwidth</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="152">rowsep</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="148">colsep</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="134">align</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="130">cols</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="120">valign</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="115">width</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="112">height</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="112">data</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="112">name</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="112">value</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="67">tmtype</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="64">frame</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="37">othertype</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="36">morerows</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="20">trademark</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="9">importance</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="7">relcolwidth</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="6">alt</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="4">rowheader</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="2">namest</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="2">nameend</oxyd:topicAttribute>
+            <oxyd:topicAttribute count="1">status</oxyd:topicAttribute>
+         </oxyd:topicAttributes>
+      </oxyd:attributes>
+      <oxyd:outputclass>
+         <oxyd:attValue>iframe</oxyd:attValue>
+         <oxyd:attValue>language-bourne</oxyd:attValue>
+         <oxyd:attValue>language-css</oxyd:attValue>
+         <oxyd:attValue>language-ini</oxyd:attValue>
+         <oxyd:attValue>language-java</oxyd:attValue>
+         <oxyd:attValue>language-javascript</oxyd:attValue>
+         <oxyd:attValue>language-json</oxyd:attValue>
+         <oxyd:attValue>language-sql</oxyd:attValue>
+         <oxyd:attValue>language-text</oxyd:attValue>
+         <oxyd:attValue>language-xml</oxyd:attValue>
+         <oxyd:attValue>wide</oxyd:attValue>
+         <oxyd:attValue>xml</oxyd:attValue>
+      </oxyd:outputclass>
+      <oxyd:conditionalAttributes>
+         <oxyd:audience/>
+         <oxyd:platform/>
+         <oxyd:product>
+            <oxyd:attValue>author</oxyd:attValue>
+            <oxyd:attValue>authorEclipse</oxyd:attValue>
+            <oxyd:attValue>chemistry</oxyd:attValue>
+            <oxyd:attValue>developer</oxyd:attValue>
+            <oxyd:attValue>developerEclipse</oxyd:attValue>
+            <oxyd:attValue>editor</oxyd:attValue>
+            <oxyd:attValue>editorEclipse</oxyd:attValue>
+            <oxyd:attValue>fusion</oxyd:attValue>
+            <oxyd:attValue>pdf-css</oxyd:attValue>
+            <oxyd:attValue>svnClient</oxyd:attValue>
+            <oxyd:attValue>waCustom</oxyd:attValue>
+            <oxyd:attValue>webauthor</oxyd:attValue>
+            <oxyd:attValue>webhelp</oxyd:attValue>
+            <oxyd:attValue>webhelp-responsive</oxyd:attValue>
+         </oxyd:product>
+         <oxyd:otherprops/>
+         <oxyd:rev/>
+      </oxyd:conditionalAttributes>
+      <oxyd:text>
+         <oxyd:words>
+            <oxyd:uniqueWords>19321</oxyd:uniqueWords>
+            <oxyd:totalWords>1.135424E6</oxyd:totalWords>
+            <oxyd:minWords>1</oxyd:minWords>
+            <oxyd:maxWords>7329</oxyd:maxWords>
+            <oxyd:avgWords>375</oxyd:avgWords>
+         </oxyd:words>
+         <oxyd:topMaxWords>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/whr_publishing_template_contents.dita">
+               <oxyd:words>7329</oxyd:words>
+               <oxyd:characters>50697</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/whr_publishing_template_contents.dita">
+               <oxyd:words>7329</oxyd:words>
+               <oxyd:characters>50697</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/author-dita-extensions.dita">
+               <oxyd:words>5367</oxyd:words>
+               <oxyd:characters>31019</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/author-dita-extensions.dita">
+               <oxyd:words>5367</oxyd:words>
+               <oxyd:characters>31019</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/author-dita-extensions.dita">
+               <oxyd:words>5367</oxyd:words>
+               <oxyd:characters>31019</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/dg-default-author-operations.dita">
+               <oxyd:words>5089</oxyd:words>
+               <oxyd:characters>34539</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/dita-maps-manager.dita">
+               <oxyd:words>4613</oxyd:words>
+               <oxyd:characters>26150</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/svn-main-menu.dita">
+               <oxyd:words>4108</oxyd:words>
+               <oxyd:characters>23161</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/svn-main-menu.dita">
+               <oxyd:words>4108</oxyd:words>
+               <oxyd:characters>23161</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/text-mode-actions.dita">
+               <oxyd:words>3759</oxyd:words>
+               <oxyd:characters>21780</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/text-mode-actions.dita">
+               <oxyd:words>3759</oxyd:words>
+               <oxyd:characters>21780</oxyd:characters>
+            </oxyd:topicText>
+         </oxyd:topMaxWords>
+         <oxyd:topMinWords>
+            <oxyd:topicText topic="">
+               <oxyd:words>1</oxyd:words>
+               <oxyd:characters>0</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/ch_appendix.dita">
+               <oxyd:words>1</oxyd:words>
+               <oxyd:characters>8</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/ch_supported_properties.dita">
+               <oxyd:words>4</oxyd:words>
+               <oxyd:characters>29</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/result.dita">
+               <oxyd:words>8</oxyd:words>
+               <oxyd:characters>55</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/dcpp_troubleshooting.dita">
+               <oxyd:words>10</oxyd:words>
+               <oxyd:characters>91</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/svn-main-window.dita">
+               <oxyd:words>10</oxyd:words>
+               <oxyd:characters>54</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/dcpp_troubleshooting.dita">
+               <oxyd:words>10</oxyd:words>
+               <oxyd:characters>91</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/svn-main-window.dita">
+               <oxyd:words>10</oxyd:words>
+               <oxyd:characters>54</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/glossary/idml.dita">
+               <oxyd:words>10</oxyd:words>
+               <oxyd:characters>61</oxyd:characters>
+            </oxyd:topicText>
+            <oxyd:topicText topic="file:/C:/Users/radu_coravu/Desktop/UG-stuff/userguide-21-20190218/userguide-21-20190218/DITA/topics/dcpp_footnotes___built_in_css.dita">
+               <oxyd:words>11</oxyd:words>
+               <oxyd:characters>100</oxyd:characters>
+            </oxyd:topicText>
+         </oxyd:topMinWords>
+         <oxyd:characters>
+            <oxyd:totalCharacters>7.159784E6</oxyd:totalCharacters>
+            <oxyd:minCharacters>0</oxyd:minCharacters>
+            <oxyd:maxCharacters>50697</oxyd:maxCharacters>
+            <oxyd:avgCharacters>2362</oxyd:avgCharacters>
+         </oxyd:characters>
+      </oxyd:text>
+      <oxyd:processingInstructions>
+         <oxyd:piData>
+            <oxyd:totalPIs>18</oxyd:totalPIs>
+            <oxyd:uniquePIs>3</oxyd:uniquePIs>
+         </oxyd:piData>
+         <oxyd:pis>
+            <oxyd:pi count="8">oxy_comment_start</oxyd:pi>
+            <oxyd:pi count="8">oxy_comment_end</oxyd:pi>
+            <oxyd:pi count="2">oxy_custom_start</oxyd:pi>
+         </oxyd:pis>
+      </oxyd:processingInstructions>
+      <oxyd:externalLinks>
+         <oxyd:linksData>
+            <oxyd:totalLinks>1775</oxyd:totalLinks>
+            <oxyd:uniqueLinks>785</oxyd:uniqueLinks>
+         </oxyd:linksData>
+         <oxyd:links>
+            <oxyd:link count="1">customizing-options.dita#customizing-options/custom_sharepoint_options</oxyd:link>
+            <oxyd:link count="1">http://ant.apache.org/</oxyd:link>
+            <oxyd:link count="1">http://ant.apache.org/bindownload.cgi</oxyd:link>
+            <oxyd:link count="1">http://ant.apache.org/manual/install.html</oxyd:link>
+            <oxyd:link count="1">http://ant.apache.org/manual/properties.html</oxyd:link>
+            <oxyd:link count="1">http://archive.apache.org/dist/poi/release/bin/</oxyd:link>
+            <oxyd:link count="1">http://blakeley.com/blogofile/2012/03/19/directory-assistance/</oxyd:link>
+            <oxyd:link count="1">http://blog.oxygenxml.com/</oxyd:link>
+            <oxyd:link count="1">http://blog.oxygenxml.com/2013/12/creating-simple-dita-open-toolkit.html</oxyd:link>
+            <oxyd:link count="5">http://blog.oxygenxml.com/2015/05/schematron-checks-to-help-technical.html</oxyd:link>
+            <oxyd:link count="2">http://blog.oxygenxml.com/2015/08/dita-13-key-scopes-next-generation-of.html</oxyd:link>
+            <oxyd:link count="2">http://blog.oxygenxml.com/2015/09/dita-13-branch-filtering-next.html</oxyd:link>
+            <oxyd:link count="1">http://blog.oxygenxml.com/2015/10/how-special-paste-works-in-oxygen.html</oxyd:link>
+            <oxyd:link count="1">http://blog.oxygenxml.com/2017/03/useful-dita-ot-plugins.html</oxyd:link>
+            <oxyd:link count="1">http://bugs.java.com/bugdatabase/view_bug.do?bug_id=6429775</oxyd:link>
+            <oxyd:link count="1">http://bugs.java.com/view_bug.do?bug_id=4521075</oxyd:link>
+            <oxyd:link count="1">http://community.marklogic.com/download</oxyd:link>
+            <oxyd:link count="2">http://daringfireball.net/projects/markdown/syntax</oxyd:link>
+            <oxyd:link count="1">http://dev.saxonica.com/blog/mike/2017/11/transforming-json.html</oxyd:link>
+            <oxyd:link count="1">http://developer.marklogic.com/products/xcc</oxyd:link>
+            <oxyd:link count="2">http://dh.newtfire.org/explainSchematron.html</oxyd:link>
+            <oxyd:link count="1">http://dita-generator-hrd.appspot.com/pdf-plugin/</oxyd:link>
+            <oxyd:link count="7">http://dita4practitioners.github.io/dita-specialization-tutorials/</oxyd:link>
+            <oxyd:link count="1">http://dita4practitioners.github.io/dita-specialization-tutorials/body/part-config-and-extend/specialization-overview.html</oxyd:link>
+            <oxyd:link count="2">http://dita4practitioners.github.io/dita-specialization-tutorials/standalone-tutorials/config-and-extend-tutorials-standalone.html</oxyd:link>
+            <oxyd:link count="1">http://dita4publishers.sourceforge.net/topics/install-instructions.html</oxyd:link>
+            <oxyd:link count="2">http://docbook.org/specs/</oxyd:link>
+            <oxyd:link count="3">http://docbook.org/specs/docbook-v5.1-csprd02.html</oxyd:link>
+            <oxyd:link count="1">http://docbook.sourceforge.net/release/xsl/current/doc/fo/index.html</oxyd:link>
+            <oxyd:link count="1">http://docs.basex.org/wiki/Startup#BaseX_HTTP_Server</oxyd:link>
+            <oxyd:link count="2">http://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd01/LwDITA-v1.0-cnprd01.html</oxyd:link>
+            <oxyd:link count="1">http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part0-overview.html</oxyd:link>
+            <oxyd:link count="4">http://docs.oasis-open.org/dita/dita/v1.3/errata02/os/complete/part3-all-inclusive/archSpec/base/key-based-addressing.html</oxyd:link>
+            <oxyd:link count="2">http://docs.oasis-open.org/dita/dita/v1.3/os/part0-overview/dita-v1.3-os-part0-overview.html</oxyd:link>
+            <oxyd:link count="1">http://docs.oasis-open.org/dita/v1.2/os/spec/langref/term.html#term</oxyd:link>
+            <oxyd:link count="1">http://docs.oracle.com/cd/B28359_01/appdev.111/b28369/xdb_xquery.htm#top</oxyd:link>
+            <oxyd:link count="1">http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html</oxyd:link>
+            <oxyd:link count="1">http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#jcc</oxyd:link>
+            <oxyd:link count="5">http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html</oxyd:link>
+            <oxyd:link count="4">http://docs.oracle.com/javase/7/docs/api/java/util/UUID.html</oxyd:link>
+            <oxyd:link count="1">http://docs.oracle.com/javase/7/docs/technotes/guides/access/enable_and_test.html</oxyd:link>
+            <oxyd:link count="1">http://download.oracle.com/javase/1,5.0/docs/guide/javaws/developersguide/syntax.html</oxyd:link>
+            <oxyd:link count="1">http://download.oracle.com/javase/6/docs/api/java/lang/Math.html</oxyd:link>
+            <oxyd:link count="2">http://en.wikipedia.org/wiki/Diff#Unified_format</oxyd:link>
+            <oxyd:link count="5">http://en.wikipedia.org/wiki/Md5sum</oxyd:link>
+            <oxyd:link count="2">http://exslt.org/exsl/elements/document/index.html</oxyd:link>
+            <oxyd:link count="3">http://extensions.openoffice.org/dictionary</oxyd:link>
+            <oxyd:link count="1">http://extensions.openoffice.org/en/search?query=autocorrect&amp;sort_by=field_project_stats_year&amp;sort_order=DESC</oxyd:link>
+            <oxyd:link count="3">http://extensions.services.openoffice.org/dictionary</oxyd:link>
+            <oxyd:link count="1">http://fontforge.github.io/en-US/</oxyd:link>
+            <oxyd:link count="2">http://ftp.zlatkovic.com/libxml.en.html</oxyd:link>
+            <oxyd:link count="1">http://getfirebug.com/</oxyd:link>
+            <oxyd:link count="1">http://java.sun.com/products/jfc/tsc/articles/InputMethod/inputmethod.html</oxyd:link>
+            <oxyd:link count="1">http://jdbc.postgresql.org/download.html</oxyd:link>
+            <oxyd:link count="1">http://json.org/</oxyd:link>
+            <oxyd:link count="1">http://lesscss.org/</oxyd:link>
+            <oxyd:link count="1">http://lucene.apache.org/core/</oxyd:link>
+            <oxyd:link count="5">http://lucene.apache.org/core/old_versioned_docs/versions/2_9_1/queryparsersyntax.html</oxyd:link>
+            <oxyd:link count="2">http://microsoft.com/en-us/download/details.aspx?id=21714</oxyd:link>
+            <oxyd:link count="2">http://msdn.microsoft.com/en-us/library/0a7zy9z5%28v=vs.71%29.aspx</oxyd:link>
+            <oxyd:link count="2">http://msdn.microsoft.com/en-us/library/dfb3cx8s%28v=vs.71%29.aspx</oxyd:link>
+            <oxyd:link count="2">http://msdn.microsoft.com/en-us/library/yf1d93sz.aspx</oxyd:link>
+            <oxyd:link count="8">http://msdn.microsoft.com/xml/</oxyd:link>
+            <oxyd:link count="2">http://pdfbox.apache.org/downloads.html</oxyd:link>
+            <oxyd:link count="1">http://prdownloads.sourceforge.net/saxon/saxon6-5-5.zip</oxyd:link>
+            <oxyd:link count="2">http://requirejs.org/docs/whyamd.html#amd</oxyd:link>
+            <oxyd:link count="2">http://resources.ej-technologies.com/install4j/help/doc/index.html#install4j.helptopics.installers.responseFile</oxyd:link>
+            <oxyd:link count="3">http://saxon.sf.net/</oxyd:link>
+            <oxyd:link count="2">http://saxon.sourceforge.net/saxon6.5.5/</oxyd:link>
+            <oxyd:link count="2">http://saxon.sourceforge.net/saxon6.5.5/extensions.html</oxyd:link>
+            <oxyd:link count="3">http://schematron-quickfix.github.io/sqf/publishing-snapshots/April2015Draft/spec/SQFSpec.html</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/common/common-image/3.1.0/common-image-3.1.0.jar</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/common/common-io/3.1.0/common-io-3.1.0.jar</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/common/common-lang/3.1.0/common-lang-3.1.0.jar</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/imageio/imageio-core/3.1.0/imageio-core-3.1.0.jar</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/imageio/imageio-metadata/3.1.0/imageio-metadata-3.1.0.jar</oxyd:link>
+            <oxyd:link count="2">http://search.maven.org/remotecontent?filepath=com/twelvemonkeys/imageio/imageio-psd/3.1.0/imageio-psd-3.1.0.jar</oxyd:link>
+            <oxyd:link count="1">http://sourceforge.net/projects/offo/</oxyd:link>
+            <oxyd:link count="1">http://sourceforge.net/projects/saxon/files/Saxon-B/9.1.0.8/</oxyd:link>
+            <oxyd:link count="1">http://support.apple.com/kb/HT5672</oxyd:link>
+            <oxyd:link count="1">http://svnbook.red-bean.com/en/1.7/svn.webdav.autoversioning.html</oxyd:link>
+            <oxyd:link count="1">http://tdg.docbook.org/tdg/5.1/</oxyd:link>
+            <oxyd:link count="2">http://tdg.docbook.org/tdg/5.1/ch06.html</oxyd:link>
+            <oxyd:link count="2">http://tdg.docbook.org/tdg/5.1/topic.html</oxyd:link>
+            <oxyd:link count="3">http://tomcat.apache.org</oxyd:link>
+            <oxyd:link count="1">http://unicode.org/standard/standard.html</oxyd:link>
+            <oxyd:link count="2">http://w3c.github.io/html/semantics-embedded-content.html#embedded-content-image-maps</oxyd:link>
+            <oxyd:link count="1">http://wiki.tei-c.org/index.php/Roma</oxyd:link>
+            <oxyd:link count="2">http://wildfly.org/downloads/</oxyd:link>
+            <oxyd:link count="2">http://www-01.ibm.com/support/docview.wss?uid=swg24041178</oxyd:link>
+            <oxyd:link count="4">http://www-306.ibm.com/software/data/db2/express/download.html</oxyd:link>
+            <oxyd:link count="1">http://www.access-for-all.ch/ch/pdf-werkstatt/pdf-accessibility-checker-pac.html</oxyd:link>
+            <oxyd:link count="1">http://www.alphaworks.ibm.com/tech/xmlsqc/download</oxyd:link>
+            <oxyd:link count="2">http://www.amazon.com/gp/feature.html/?docId=1000765211</oxyd:link>
+            <oxyd:link count="2">http://www.antennahouse.com/</oxyd:link>
+            <oxyd:link count="4">http://www.antennahouse.com/antenna1/formatter/</oxyd:link>
+            <oxyd:link count="1">http://www.apache.org/dist/ant/binaries/</oxyd:link>
+            <oxyd:link count="1">http://www.apache.org/licenses/LICENSE-2.0</oxyd:link>
+            <oxyd:link count="1">http://www.chemie.fu-berlin.de/diverse/doc/ISO_3166.html</oxyd:link>
+            <oxyd:link count="1">http://www.cogsci.ed.ac.uk/%7Eht/xsv-status.html</oxyd:link>
+            <oxyd:link count="5">http://www.dessci.com/en/products/mathflow/</oxyd:link>
+            <oxyd:link count="12">http://www.dita-ot.org/</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/2.0/readme/DITA-globalization-pdf.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/2.0/readme/DITA-globalization-xhtml.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/extension-points/plugin-extension-points.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/parameters/dita-command-arguments.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/parameters/index.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/parameters/parameters-base-html.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/parameters/parameters-base.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/parameters/parameters-pdf.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/reference/preprocess.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/build-using-dita-command.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/building-output.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/custom-plugins.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/dita2html5.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/pdf-customization.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/plugin-addgeneratedtext.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/3.2/topics/plugins-installing.html</oxyd:link>
+            <oxyd:link count="2">http://www.dita-ot.org/dev/extension-points/extension-points-by-plugin.html</oxyd:link>
+            <oxyd:link count="9">http://www.dita-ot.org/dev/extension-points/plugin-extension-points-xslt-import.html</oxyd:link>
+            <oxyd:link count="6">http://www.dita-ot.org/dev/extension-points/plugin-extension-points-xslt-parameters.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/dev/reference/extended-functionality.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/dev/topics/building-output.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/dev/topics/plugin-addgeneratedtext.html#ariaid-title1</oxyd:link>
+            <oxyd:link count="2">http://www.dita-ot.org/dev/topics/plugin-newtranstype.html</oxyd:link>
+            <oxyd:link count="1">http://www.dita-ot.org/dev/topics/plugins-installing.html</oxyd:link>
+            <oxyd:link count="3">http://www.dita-ot.org/download</oxyd:link>
+            <oxyd:link count="1">http://www.dita4publishers.org/</oxyd:link>
+            <oxyd:link count="2">http://www.ditastyle.com</oxyd:link>
+            <oxyd:link count="1">http://www.ditatranslation.com/articles/ditaxliff.html</oxyd:link>
+            <oxyd:link count="1">http://www.ditatranslation.com/articles/organize_files.html</oxyd:link>
+            <oxyd:link count="4">http://www.divvun.no/doc/infra/hunspell.html</oxyd:link>
+            <oxyd:link count="2">http://www.docbook.org/specs/</oxyd:link>
+            <oxyd:link count="2">http://www.docbook.org/tdg5/en/html/areaspec.html</oxyd:link>
+            <oxyd:link count="4">http://www.docbook.org/tdg5/en/html/cals.table.html</oxyd:link>
+            <oxyd:link count="4">http://www.docbook.org/tdg5/en/html/html.table.html</oxyd:link>
+            <oxyd:link count="1">http://www.elovirta.com/2016/02/18/font-configuration-in-pdf2.html</oxyd:link>
+            <oxyd:link count="2">http://www.exslt.org/</oxyd:link>
+            <oxyd:link count="2">http://www.exslt.org/func/elements/function/</oxyd:link>
+            <oxyd:link count="1">http://www.freedomscientific.com/Products/Blindness/JAWS</oxyd:link>
+            <oxyd:link count="1">http://www.loc.gov/standards/iso639-2/php/code_list.php</oxyd:link>
+            <oxyd:link count="2">http://www.mathjax.org/</oxyd:link>
+            <oxyd:link count="2">http://www.microsoft.com/downloads/details.aspx?FamilyID=9655156b-356b-4a2c-857c-e62f50ae9a55&amp;DisplayLang=en</oxyd:link>
+            <oxyd:link count="4">http://www.microsoft.com/downloads/details.aspx?FamilyID=d7158dee-a83f-4e21-b05a-009d06457787&amp;displaylang=en</oxyd:link>
+            <oxyd:link count="2">http://www.microsoft.com/downloads/details.aspx?FamilyId=3144B72B-B4F2-46DA-B4B6-C5D7485F2B42&amp;displaylang=en</oxyd:link>
+            <oxyd:link count="1">http://www.microsoft.com/en-us/download/details.aspx?id=11774</oxyd:link>
+            <oxyd:link count="1">http://www.microsoft.com/en-us/download/details.aspx?id=21599</oxyd:link>
+            <oxyd:link count="1">http://www.mozilla.org/rhino/doc.html</oxyd:link>
+            <oxyd:link count="1">http://www.mysql.com/downloads/connector/j/</oxyd:link>
+            <oxyd:link count="1">http://www.oasis-open.org/committees/download.php/29734/AcronymBestPractice_08112008.doc</oxyd:link>
+            <oxyd:link count="1">http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-112010-090769.html</oxyd:link>
+            <oxyd:link count="5">http://www.oracle.com/technetwork/java/javase/downloads/index.html</oxyd:link>
+            <oxyd:link count="1">http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html</oxyd:link>
+            <oxyd:link count="2">http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html</oxyd:link>
+            <oxyd:link count="1">http://www.oracle.com/technetwork/java/javase/manual-plugin-install-linux-136395.html</oxyd:link>
+            <oxyd:link count="4">http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-client-419417.html</oxyd:link>
+            <oxyd:link count="1">http://www.oracle.com/us/products/database/berkeley-db/xml/overview/index.html</oxyd:link>
+            <oxyd:link count="4">http://www.princexml.com/</oxyd:link>
+            <oxyd:link count="2">http://www.renderx.com/</oxyd:link>
+            <oxyd:link count="2">http://www.rfc-editor.org/rfc/rfc5646.txt</oxyd:link>
+            <oxyd:link count="1">http://www.sagehill.net/docbookxsl/PrintCustomEx.html</oxyd:link>
+            <oxyd:link count="1">http://www.sagehill.net/docbookxsl/TitlePagePrint.html#PrintTitlepageSpecfile</oxyd:link>
+            <oxyd:link count="2">http://www.saxonica.com</oxyd:link>
+            <oxyd:link count="2">http://www.saxonica.com/</oxyd:link>
+            <oxyd:link count="6">http://www.saxonica.com/ce/index.xml</oxyd:link>
+            <oxyd:link count="2">http://www.saxonica.com/documentation/index.html#!conformance/xslt30</oxyd:link>
+            <oxyd:link count="2">http://www.saxonica.com/documentation9.5/index.html#!extensibility</oxyd:link>
+            <oxyd:link count="1">http://www.saxonica.com/html/documentation/functions/fn/matches.html</oxyd:link>
+            <oxyd:link count="2">http://www.saxonica.com/saxon-js/documentation/index.html</oxyd:link>
+            <oxyd:link count="2">http://www.schematron.com/iso/</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnClient.com/eula.html</oxyd:link>
+            <oxyd:link count="2">http://www.syncrosvnclient.com</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnclient.com/buy.html</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnclient.com/contact.html</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnclient.com/documentation.html</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnclient.com/eula.html</oxyd:link>
+            <oxyd:link count="2">http://www.syncrosvnclient.com/register.html</oxyd:link>
+            <oxyd:link count="1">http://www.syncrosvnclient.com/thirdparty/</oxyd:link>
+            <oxyd:link count="1">http://www.tei-c.org/Guidelines/Customization/odds.xml</oxyd:link>
+            <oxyd:link count="1">http://www.tei-c.org/guidelines/customization/jtei/</oxyd:link>
+            <oxyd:link count="1">http://www.tei-c.org/guidelines/p5/</oxyd:link>
+            <oxyd:link count="2">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/</oxyd:link>
+            <oxyd:link count="2">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html</oxyd:link>
+            <oxyd:link count="1">http://www.thaiopensource.com/relaxng/pluggable-datatypes.html</oxyd:link>
+            <oxyd:link count="2">http://www.unicode.org/reports/tr9/</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/2001/XMLSchema-instance</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/2001/REC-xml-c14n-20010315</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/2002/REC-xml-exc-c14n-20020718/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/2003/REC-xptr-element-20030325/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/2003/REC-xptr-framework-20030325/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/2006/WD-css3-values-20060919/#functional</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/CSS21/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/REC-html40/present/styles.html#h-14.3.2</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/css-gcpm-3/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/css3-content/#pseudo-elements</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/css3-page/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/css3-page/#page-breaks</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/css3-values/#lengths</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/selectors4/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xmlbase/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xmldsig-core/</oxyd:link>
+            <oxyd:link count="5">http://www.w3.org/TR/xmlschema-2/#date</oxyd:link>
+            <oxyd:link count="5">http://www.w3.org/TR/xmlschema-2/#dateTime</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xmlschema11-1/#ch_specs</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-all</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-any</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-anyAttribute</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-attribute</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-attributeGroup</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-choice</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-complexType</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-element</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-field</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-group</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-import</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-include</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-key</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-keyref</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-notation</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-openContent</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-override</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-redefine</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-schema</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-selector</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-sequence</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-simpleType</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xmlschema11-1/#element-unique</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xpath</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xpath#corelib</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xquery-update-10/#introduction</oxyd:link>
+            <oxyd:link count="2">http://www.w3.org/TR/xquery/</oxyd:link>
+            <oxyd:link count="1">http://www.w3.org/TR/xslt#import</oxyd:link>
+            <oxyd:link count="1">http://www.webpagefx.com/tools/emoji-cheat-sheet/</oxyd:link>
+            <oxyd:link count="1">http://www.wiris.com/en/plugins/docs/oxygen</oxyd:link>
+            <oxyd:link count="2">http://www.zorba.io/home</oxyd:link>
+            <oxyd:link count="2">http://xerces.apache.org/xml-commons/components/resolver/resolver-article.html#ctrlresolver</oxyd:link>
+            <oxyd:link count="2">http://xml.apache.org/batik/</oxyd:link>
+            <oxyd:link count="1">http://xml.apache.org/fop/index.html</oxyd:link>
+            <oxyd:link count="2">http://xml.apache.org/xalan-j/</oxyd:link>
+            <oxyd:link count="2">http://xml.apache.org/xalan-j/extensions.html</oxyd:link>
+            <oxyd:link count="1">http://xmlcalabash.com/docs/reference/cfg.extension.html</oxyd:link>
+            <oxyd:link count="1">http://xmlgraphics.apache.org/batik/dev/svg12.html</oxyd:link>
+            <oxyd:link count="1">http://xmlgraphics.apache.org/batik/status.html</oxyd:link>
+            <oxyd:link count="1">http://xmlgraphics.apache.org/fop/fop-pdf-images.html</oxyd:link>
+            <oxyd:link count="2">http://xmlsoft.org/XSLT/</oxyd:link>
+            <oxyd:link count="2">http://xmlsoft.org/XSLT/downloads.html</oxyd:link>
+            <oxyd:link count="1">http://xmlsoft.org/downloads.html</oxyd:link>
+            <oxyd:link count="1">http://xqj.net/basex/basex-xqj-1.2.3.zip</oxyd:link>
+            <oxyd:link count="2">http://zvon.org/xxl/XPathTutorial/General/examples.html</oxyd:link>
+            <oxyd:link count="8">https://analytics.google.com</oxyd:link>
+            <oxyd:link count="2">https://ant.apache.org/manual/Types/fileset.html</oxyd:link>
+            <oxyd:link count="8">https://ant.apache.org/manual/dirtasks.html#patterns</oxyd:link>
+            <oxyd:link count="2">https://ant.apache.org/manual/install.html#librarydependencies</oxyd:link>
+            <oxyd:link count="3">https://aws.amazon.com/</oxyd:link>
+            <oxyd:link count="2">https://azure.microsoft.com/en-us/documentation/articles/active-directory-integrating-applications/</oxyd:link>
+            <oxyd:link count="2">https://bitbucket.org/account</oxyd:link>
+            <oxyd:link count="1">https://bugs.openjdk.java.net/browse/JDK-8087465</oxyd:link>
+            <oxyd:link count="1">https://ca-central-1.console.aws.amazon.com/ec2/v2/home?region=ca-central-1</oxyd:link>
+            <oxyd:link count="1">https://cloud-images.ubuntu.com/</oxyd:link>
+            <oxyd:link count="1">https://code.google.com/p/oxygen-tei/</oxyd:link>
+            <oxyd:link count="1">https://connect.microsoft.com/IE/Feedback/Details/907422</oxyd:link>
+            <oxyd:link count="8">https://cse.google.com/cse/</oxyd:link>
+            <oxyd:link count="2">https://datatables.net/</oxyd:link>
+            <oxyd:link count="2">https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS</oxyd:link>
+            <oxyd:link count="1">https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Scripting_Java</oxyd:link>
+            <oxyd:link count="1">https://developer.mozilla.org/en-US/docs/Web/CSS/attr</oxyd:link>
+            <oxyd:link count="1">https://developer.mozilla.org/en-US/docs/Web/CSS/color_value</oxyd:link>
+            <oxyd:link count="2">https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5</oxyd:link>
+            <oxyd:link count="1">https://developer.mozilla.org/en/Plugins/Out_of_process_plugins/The_plugin_hang_detector</oxyd:link>
+            <oxyd:link count="1">https://developer.mozilla.org/en/docs/Web/HTML/Element/link</oxyd:link>
+            <oxyd:link count="8">https://developers.facebook.com/docs/plugins/like-button</oxyd:link>
+            <oxyd:link count="8">https://developers.google.com/+/web/+1button/</oxyd:link>
+            <oxyd:link count="8">https://developers.google.com/custom-search/docs/element#html5</oxyd:link>
+            <oxyd:link count="8">https://developers.google.com/custom-search/docs/element#supported_attributes</oxyd:link>
+            <oxyd:link count="2">https://developers.google.com/identity/sign-in/web/sign-in#before_you_begin</oxyd:link>
+            <oxyd:link count="1">https://docbook.org/specs/</oxyd:link>
+            <oxyd:link count="1">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#having-ec2-create-your-key-pair</oxyd:link>
+            <oxyd:link count="2">https://docs.gitlab.com/ee/api/README.html</oxyd:link>
+            <oxyd:link count="1">https://docs.marklogic.com/guide/app-dev/import_modules#id_45509</oxyd:link>
+            <oxyd:link count="2">https://docs.oasis-open.org/dita/dita/v1.3/cs01/part1-base/archSpec/base/usage-of-conditional-processing-attributes.html</oxyd:link>
+            <oxyd:link count="2">https://docs.oasis-open.org/dita/dita/v1.3/os/part2-tech-content/langRef/technicalContent/bookmap.html</oxyd:link>
+            <oxyd:link count="1">https://docs.oasis-open.org/dita/v1.2/os/spec/common/glossary2.html</oxyd:link>
+            <oxyd:link count="2">https://docs.oasis-open.org/dita/v1.2/os/spec/langref/abbreviated-form.html</oxyd:link>
+            <oxyd:link count="2">https://docs.oasis-open.org/dita/v1.2/os/spec/langref/glossentry.html</oxyd:link>
+            <oxyd:link count="1">https://docs.oasis-open.org/dita/v1.2/os/spec/langref/glossgroup.html</oxyd:link>
+            <oxyd:link count="1">https://docs.oasis-open.org/dita/v1.2/os/spec/langref/toc.html</oxyd:link>
+            <oxyd:link count="1">https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html</oxyd:link>
+            <oxyd:link count="4">https://docs.travis-ci.com/user/encrypting-files/#Automated-Encryption</oxyd:link>
+            <oxyd:link count="4">https://docs.travis-ci.com/user/environment-variables/#Defining-Variables-in-Repository-Settings</oxyd:link>
+            <oxyd:link count="4">https://docs.travis-ci.com/user/github-oauth-scopes</oxyd:link>
+            <oxyd:link count="1">https://drafts.csswg.org/css-images-4/#the-image-resolution</oxyd:link>
+            <oxyd:link count="1">https://drafts.csswg.org/selectors-4/#relational</oxyd:link>
+            <oxyd:link count="1">https://dtd.nlm.nih.gov/</oxyd:link>
+            <oxyd:link count="2">https://en.wikipedia.org/wiki/Glyph</oxyd:link>
+            <oxyd:link count="12">https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</oxyd:link>
+            <oxyd:link count="1">https://en.wikipedia.org/wiki/Simplified_Technical_English</oxyd:link>
+            <oxyd:link count="2">https://feedback.oxygenxml.com/</oxyd:link>
+            <oxyd:link count="1">https://fonts.google.com/</oxyd:link>
+            <oxyd:link count="2">https://git-scm.com/docs/git-difftool</oxyd:link>
+            <oxyd:link count="2">https://git-scm.com/docs/git-mergetool</oxyd:link>
+            <oxyd:link count="2">https://github.com/AntennaHouse/focheck/wiki/focheck</oxyd:link>
+            <oxyd:link count="1">https://github.com/AntennaHouse/pdf5-ml</oxyd:link>
+            <oxyd:link count="1">https://github.com/TEIC/oxygen-tei</oxyd:link>
+            <oxyd:link count="2">https://github.com/amdjs/amdjs-api/blob/master/AMD.md</oxyd:link>
+            <oxyd:link count="4">https://github.com/ctalau/userguide/tree/master/.travis</oxyd:link>
+            <oxyd:link count="9">https://github.com/dita-community/dita13-dita-ot-1.x-support</oxyd:link>
+            <oxyd:link count="1">https://github.com/dita-community/org.dita-community.pdf-page-break</oxyd:link>
+            <oxyd:link count="1">https://github.com/dita4publishers</oxyd:link>
+            <oxyd:link count="1">https://github.com/expath/xspec/wiki/Writing-Scenarios</oxyd:link>
+            <oxyd:link count="3">https://github.com/jelovirt/com.elovirta.ooxml</oxyd:link>
+            <oxyd:link count="2">https://github.com/jelovirt/org.lwdita/wiki/Syntax-reference</oxyd:link>
+            <oxyd:link count="1">https://github.com/junit-team/junit/wiki/Download-and-Install</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/?q=topic%3Aoxygen-web-author-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/Oxygen-Git-Plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/Translation-Package-Builder</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/com.oxygenxml.pdf2.ug</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/com.oxygenxml.pdf2.ug/wiki</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/com.oxygenxml.webhelp.responsive.custom.footer</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/dita-embed-html</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/dita-glass</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/dita-ot-3x-plugin</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/dita-ot-css-pdf</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/dita-ot-numbering</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/docbook-validate-check-completeness</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/javascript-sample-operations</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/oxygen-cmis-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/oxygen-dita-prolog-updater</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/oxygen-dita-translation-package-builder</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/oxygen-pdf-image</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/oxygen-publishing-template-samples/wiki/JavaScript-AMD-Modules</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/oxygen-resources-converter</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/oxygenxml.cgm.support</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/oxygenxml.cgm.support.eclipse</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/oxygenxml.cgm.support/</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/oxygenxml.icu4j.i18n</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/sample-plugin-workspace-access</oxyd:link>
+            <oxyd:link count="12">https://github.com/oxygenxml/web-author-component-integration</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/web-author-github-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/web-author-imageio-plugin</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/web-author-languagetool-plugin</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/web-author-learn-words-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/web-author-mathml-plugin/</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/web-author-perforce-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/web-author-plugin-archetype</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/web-author-rest-connector</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/web-author-rest-plugin</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/web-author-webdav-plugin</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/webapp-github-plugin</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/webapp-github-plugin/blob/SNAPSHOT/src/main/java/com/oxygenxml/examples/github/GithubPluginConfigExtension.java/</oxyd:link>
+            <oxyd:link count="3">https://github.com/oxygenxml/webapp-webdav-integration</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/webapp-webdav-integration#imposed-urls</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/webapp-webdav-integration/blob/SNAPSHOT/src/main/java/com/oxygenxml/examples/webdav/WebdavPluginConfigExtension.java</oxyd:link>
+            <oxyd:link count="2">https://github.com/oxygenxml/wsaccess-javascript-sample-plugins</oxyd:link>
+            <oxyd:link count="1">https://github.com/oxygenxml/wsaccess-javascript-sample-plugins/tree/master/preserveAllReferencesAsAbsolute</oxyd:link>
+            <oxyd:link count="1">https://github.com/search?q=topic%3Adita-ot-plugin+org%3Aoxygenxml&amp;type=Repositories</oxyd:link>
+            <oxyd:link count="4">https://github.com/settings/applications/new</oxyd:link>
+            <oxyd:link count="1">https://github.com/xml-project/support-for-xmleditor</oxyd:link>
+            <oxyd:link count="1">https://github.com/xspec/oXygen-XML-editor-xspec-support</oxyd:link>
+            <oxyd:link count="1">https://github.com/xspec/xspec/wiki/Writing-Scenarios-for-Schematron#writing-tests</oxyd:link>
+            <oxyd:link count="2">https://gitlab.com/profile/applications</oxyd:link>
+            <oxyd:link count="3">https://help.github.com/articles/about-pull-requests/</oxyd:link>
+            <oxyd:link count="4">https://help.github.com/articles/creating-an-access-token-for-command-line-use/</oxyd:link>
+            <oxyd:link count="4">https://help.github.com/articles/creating-project-pages-manually/</oxyd:link>
+            <oxyd:link count="2">https://help.github.com/categories/writing-on-github/</oxyd:link>
+            <oxyd:link count="1">https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html</oxyd:link>
+            <oxyd:link count="1">https://jenkins.io/</oxyd:link>
+            <oxyd:link count="1">https://lists.oasis-open.org/archives/dita/201301/msg00029.html</oxyd:link>
+            <oxyd:link count="1">https://logging.apache.org/log4j/2.x/manual/configuration.html#Properties</oxyd:link>
+            <oxyd:link count="1">https://lucene.apache.org/core/2_9_4/queryparsersyntax.html</oxyd:link>
+            <oxyd:link count="4">https://manage.windowsazure.com/</oxyd:link>
+            <oxyd:link count="2">https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually</oxyd:link>
+            <oxyd:link count="2">https://my.vmware.com/en/web/vmware/info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_5</oxyd:link>
+            <oxyd:link count="1">https://oxygenxml.com/pdf_chemistry/download.html</oxyd:link>
+            <oxyd:link count="1">https://oxygenxml.com/xml_web_author/download_oxygenxml_web_author.html</oxyd:link>
+            <oxyd:link count="4">https://pages.github.com/</oxyd:link>
+            <oxyd:link count="1">https://pandoc.org</oxyd:link>
+            <oxyd:link count="2">https://pandoc.org/MANUAL.html</oxyd:link>
+            <oxyd:link count="8">https://publish.twitter.com</oxyd:link>
+            <oxyd:link count="2">https://relaxng.org/</oxyd:link>
+            <oxyd:link count="1">https://sourceforge.net/projects/dita-ot/files/Plug-in_%20dockbook2dita/</oxyd:link>
+            <oxyd:link count="1">https://sourceforge.net/projects/docbook/files/docbook-xsl-ns/1.78.1/</oxyd:link>
+            <oxyd:link count="1">https://sourceforge.net/projects/jcgm/files/</oxyd:link>
+            <oxyd:link count="1">https://sourceforge.net/projects/jfcunit/</oxyd:link>
+            <oxyd:link count="2">https://sourceforge.net/projects/offo/</oxyd:link>
+            <oxyd:link count="1">https://sourceforge.net/projects/offo/files/</oxyd:link>
+            <oxyd:link count="1">https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux</oxyd:link>
+            <oxyd:link count="1">https://stackoverflow.com/questions/22465332/setting-path-environmental-variables-in-osx-permanently</oxyd:link>
+            <oxyd:link count="1">https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10</oxyd:link>
+            <oxyd:link count="8">https://support.microsoft.com/en-us/kb/2616712</oxyd:link>
+            <oxyd:link count="3">https://tools.ietf.org/html/draft-fge-json-schema-validation-00</oxyd:link>
+            <oxyd:link count="1">https://tools.ietf.org/html/draft-handrews-json-schema-validation-01</oxyd:link>
+            <oxyd:link count="1">https://tools.ietf.org/html/draft-wright-json-schema-validation-01</oxyd:link>
+            <oxyd:link count="1">https://travis-ci.org/</oxyd:link>
+            <oxyd:link count="4">https://travis-ci.org/auth</oxyd:link>
+            <oxyd:link count="4">https://travis-ci.org/profile</oxyd:link>
+            <oxyd:link count="4">https://wiki.jenkins-ci.org/display/JENKINS/Building+a+software+project</oxyd:link>
+            <oxyd:link count="2">https://www-01.ibm.com/support/knowledgecenter/SS7K4U_8.5.5/com.ibm.websphere.nd.doc/ae/rrun_chain_httpcustom.html</oxyd:link>
+            <oxyd:link count="2">https://www-01.ibm.com/support/knowledgecenter/SSAW57_8.0.0/com.ibm.websphere.nd.doc/info/ae/ae/twbs_jaxrs_disable_runtime.html</oxyd:link>
+            <oxyd:link count="2">https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards</oxyd:link>
+            <oxyd:link count="2">https://www.antennahouse.com/antenna1/formatter/</oxyd:link>
+            <oxyd:link count="1">https://www.dita-ot.org/</oxyd:link>
+            <oxyd:link count="1">https://www.dita-ot.org/3.1/extension-points/plugin-extension-points.html</oxyd:link>
+            <oxyd:link count="1">https://www.dita-ot.org/3.1/topics/plugin-configfile.html</oxyd:link>
+            <oxyd:link count="1">https://www.gutenberg.org</oxyd:link>
+            <oxyd:link count="4">https://www.ibm.com/support/knowledgecenter/en/SSEUEX_3.0.0/com.ibm.developingeuc.doc/eucdi000.htm</oxyd:link>
+            <oxyd:link count="2">https://www.ietf.org/rfc/rfc2617.txt</oxyd:link>
+            <oxyd:link count="1">https://www.infomanagementcenter.com/publications/best-practices-newsletter/2010-best-practices-newsletter/successful-localization-in-dita/</oxyd:link>
+            <oxyd:link count="1">https://www.maxprograms.com/products/fluenta.html</oxyd:link>
+            <oxyd:link count="2">https://www.microsoft.com/en-us/download/</oxyd:link>
+            <oxyd:link count="2">https://www.microsoft.com/typography/fonts/family.aspx?FID=234</oxyd:link>
+            <oxyd:link count="2">https://www.nvaccess.org</oxyd:link>
+            <oxyd:link count="1">https://www.oasis-open.org/committees/download.php/14809/xml-catalogs.html</oxyd:link>
+            <oxyd:link count="1">https://www.oasis-open.org/committees/download.php/14809/xml-catalogs.html#s.systemsuffix</oxyd:link>
+            <oxyd:link count="1">https://www.oasis-open.org/committees/download.php/14809/xml-catalogs.html#s.urisuffix</oxyd:link>
+            <oxyd:link count="1">https://www.oasis-open.org/specs/a401.htm</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/#features</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Author/All/oxygenAuthor.tar.gz</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Author/Eclipse/site.xml</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Developer/All/oxygenDeveloper.tar.gz</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Developer/Eclipse/site.xml</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/All/oxygen.tar.gz</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/Eclipse/site.xml</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/index.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/contentcompletion/xml/CIAttribute.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/contentcompletion/xml/SchemaManagerFilter.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/contentcompletion/xml/WhatAttributesCanGoHereContext.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/css/Styles.html</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorAccess.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorActionEventHandler.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorCaretListener.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorDocumentController.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorDocumentController.html#removePseudoClass(java.lang.String,%20ro.sync.ecss.extensions.api.node.AuthorElement)</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorDocumentController.html#setPseudoClass(java.lang.String,%20ro.sync.ecss.extensions.api.node.AuthorElement)</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorDocumentController.html#split-ro.sync.ecss.extensions.api.node.AuthorNode-int-</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorDocumentFilter.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorExtensionStateListener.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorExternalObjectInsertionHandler.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorImageDecorator.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorListener.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorMouseListener.html</oxyd:link>
+            <oxyd:link count="9">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorOperation.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorReferenceResolver.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorReviewController.html#setReviewerAuthorName(java.lang.String)</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorSchemaAwareEditingHandlerAdapter.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorSchemaAwareEditingHandlerAdapter.html#canBeReplaced-ro.sync.ecss.extensions.api.node.AuthorNode-</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorSchemaAwareEditingHandlerAdapter.html#getAncestorDetectionOptions--</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorSchemaManager.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorTableCellSepProvider.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorTableCellSpanProvider.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/AuthorTableColumnWidthProvider.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/CustomAttributeValueEditor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/EditPropertiesHandler.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/ExtensionsBundle.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/ExtensionsBundle.html#createLinkTextResolver()</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/InvalidEditException.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/OptionListener.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/OptionsStorage.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/ProfilingConditionalTextProvider.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/StylesFilter.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/UniqueAttributesRecognizer.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/access/AuthorEditorAccess.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/component/AuthorComponentFactory.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/component/AuthorComponentProvider.html#print(boolean)</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/editor/AbstractInplaceEditor.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/editor/InplaceEditor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/editor/InplaceEditorRendererAdapter.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/editor/InplaceHeavyEditor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/editor/InplaceRenderer.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/highlights/AuthorHighlighter.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/highlights/AuthorPersistentHighlighter.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/link/ElementLocator.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/link/ElementLocatorProvider.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/link/LinkTextResolver.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/node/AuthorDocument.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/node/AuthorDocumentFragment.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/node/AuthorElement.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/node/AuthorNode.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/package-summary.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/SessionStore.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/access/WebappPluginWorkspace.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/access/WebappPluginWorkspace.html#addEditingSessionLifecycleListener-ro.sync.ecss.extensions.api.webapp.access.WebappEditingSessionLifecycleListener-</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/plugin/PluginConfigExtension.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/plugin/URLStreamHandlerWithContext.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/plugin/UserActionRequiredException.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/api/webapp/plugin/WebappServletPluginExtension.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/DefaultElementLocatorProvider.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/IDElementLocator.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/XPointerElementLocator.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/id/DefaultUniqueAttributesRecognizer.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/operations/RemovePseudoClassOperation.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/operations/SetPseudoClassOperation.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/commons/operations/TogglePseudoClassOperation.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/dita/link/DitaLinkTextResolver.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/docbook/DocBook4ExtensionsBundle.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/ecss/extensions/docbook/link/DocbookLinkTextResolver.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/ComponentsValidator.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/editor/xmleditor/pageauthor/AuthorDnDListener.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/options/APIAccessibleOptionTags.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/Plugin.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/author/css/filter/GeneralStylesFilterExtension.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/urlstreamhandler/URLChooserPluginExtension.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/urlstreamhandler/URLHandlerReadOnlyCheckerExtension.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/urlstreamhandler/URLStreamHandlerPluginExtension.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/plugin/workspace/WorkspaceAccessPluginExtension.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/view/graphics/Color.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/view/graphics/Font.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/PluginWorkspace.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/PluginWorkspaceProvider.html#getPluginWorkspace--</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/editor/WSEditor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/editor/page/WSEditorPage.html#setReadOnly-java.lang.String-</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/editor/page/author/WSAuthorEditorPage.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/editor/page/author/WSAuthorEditorPageBase.html#getPersistentHighlighter()</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/editor/page/text/WSTextEditorPage.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/node/customizer/XMLNodeRendererCustomizer.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/standalone/StandalonePluginWorkspace.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/exml/workspace/api/standalone/ToolbarInfo.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/javadoc/ro/sync/net/protocol/FileBrowsingConnection.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/InstData/Editor/SDK/xprocAPI.zip</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/InstData/WebAuthor/IBM/oxygenxml-web-author-icn-plugin.jar</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/buy.html</oxyd:link>
+            <oxyd:link count="37">https://www.oxygenxml.com/buy_webhelp.html</oxyd:link>
+            <oxyd:link count="8">https://www.oxygenxml.com/contact.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/content_fusion/download_content_fusion.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/database_drivers.html</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/demo/DITA_13.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/demo/DITA_Editing.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/demo/DITA_Maps_Manager.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/demo/DocBook_Customization.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/demo/DocBook_Editing_Support.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/demo/FrameworkConfiguration.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/demo/WYSIWYG_TEI_Editing.html</oxyd:link>
+            <oxyd:link count="22">https://www.oxygenxml.com/developer.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/developer.html#XML_Editor_Authoring_SDK</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/dita/1.3/specs/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/chunking.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/conref.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/ditamap-attributes.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/ditamaps.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/metadata-in-maps-and-topics.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/relax-ng-requirements.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/subject-scheme-maps-and-usage.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/index.html#archSpec/base/uri-based-addressing.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/index.html#introduction/dita-release-overview.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/index.html#langRef/attributes/the-key-scope-attribute.html</oxyd:link>
+            <oxyd:link count="30">https://www.oxygenxml.com/dita/1.3/specs/langRef/attributes/ditauseconreftarget.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/attributes/thekeyrefattribute.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/fig.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/image.html</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/imagemap.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/map.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/reltable.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/resourceid.html#resourceid__attributes</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/shortdesc.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/langRef/base/table.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/dita/1.3/specs/langRef/containers/ditaval-elements.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/dita/1.3/specs/langRef/containers/related-links-elements.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/dita/1.3/specs/langRef/containers/table-elements.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/ditaval/ditaval-prop.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/ditaval/ditaval-revprop.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/ditaval/ditaval-style-conflict.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/1.3/specs/langRef/technicalContent/bookmap.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/1.3/specs/langRef/technicalContent/coderef.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/#Artefact/Content_Reuse/c_Conref_Push.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/Artefact/c_DITA_Authoring_Concepts.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/index.html</oxyd:link>
+            <oxyd:link count="8">https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/index.html#Artefact/Maps/c_Collection_Types.html</oxyd:link>
+            <oxyd:link count="11">https://www.oxygenxml.com/doc/ug-chemistry/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-chemistry/index.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_controlling_page_breaks.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_controlling_page_breaks.html#ch_controlling_page_breaks</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_fonts.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_fonts.html#ariaid-title6</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_footnotes.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_graphics.html#ch_graphics</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_headers-and-footers.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_page_formatting.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_pdf_output.html#ariaid-title5</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-chemistry/topics/ch_using_simulated__synthetic__styles.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-content-fusion/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/author-css-inspector-view.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/author-css-inspector-view.html#author-css-inspector-view__displaying_rules</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/author-stylesheet-extension.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/autocorrect-preferences-page.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/button-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/button-group-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/check-box-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/combo-box-editor.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/configure-elements-attr-cc-individually.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/configuring-content-completion-proposals.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/create-validation-scenario.html#create-validation-scenario</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/create-your-own-templates.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/date-picker-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-author-op-InsertFragmentOperation-arguments.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-complex-customization-tutorial.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-create-custom-actions.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-css-additional-properties.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-customize-default-CSS.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-morph-css-extension.html</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/doc/ug-editor/topics/dg-oxy-label-function.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-oxygen-css-functions.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dg-text-area-form-control.html</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/doc/ug-editor/topics/dg-xpath-function.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/dita-specialization-support.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/document-type-classpath-tab.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/document-type-templates-tab.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/document-type-validation-tab.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/edit-validation-scenario.html#edit-validation-scenario__validation-config-dialog</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/editor-variables.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/floating-license-servlet-setup.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/html-content-form-control.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/doc/ug-editor/topics/import-export-preferences.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/increase-memory.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/new-dialog-sa.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/oxy-allows-child-element.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/oxygen-plugin.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/oxygen-plugin.html#oxygen-plugin__referencing_libraries</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/pop-up-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/preferences-diff-files.html#enable-author-mode</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/rendering-elements-cc-author.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/replace-floating-license.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/doc/ug-editor/topics/schematron-quick-fixes.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/servlet-report-page.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/text-field-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/the-content-completion-tab.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/the-document-type-dialog.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/the-document-type-dialog.html#initial-edit-mode</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/url-chooser-editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/using-XML-Catalogs.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-editor/topics/whr-publishing-template.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/whr_publishing_template_contents.html#ariaid-title4</oxyd:link>
+            <oxyd:link count="8">https://www.oxygenxml.com/doc/ug-editor/topics/xpath-builder-view.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-editor/topics/xsd-rng-quick-fixes.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-editor/topics/xslt-tab.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-pdf-css/</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-pdf-css/topics/pdf_publishing_template_contents.html</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/doc/ug-pdf-css/topics/whr-create-publishing-template.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-waCustom/</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/doc/ug-waCustom/topics/customizing_frameworks.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-waCustom/topics/customizing_plugins.html</oxyd:link>
+            <oxyd:link count="7">https://www.oxygenxml.com/doc/ug-waCustom/topics/webauthor-integrate-embedded-launch.html</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/doc/ug-webauthor/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-webauthor/topics/supported-plugins.html</oxyd:link>
+            <oxyd:link count="22">https://www.oxygenxml.com/doc/ug-webauthor/topics/webapp-create-open-docs.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-webauthor/topics/webauthor-editing-docs.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-webhelp-classic/</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/ug-webhelp-classic/topics/webhelp-plugin-docbook-integration.html</oxyd:link>
+            <oxyd:link count="34">https://www.oxygenxml.com/doc/ug-webhelp-classic/topics/wh-dita-getting-started.html</oxyd:link>
+            <oxyd:link count="34">https://www.oxygenxml.com/doc/ug-webhelp-classic/topics/wh-docbook-getting-started.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/ug-webhelp-responsive/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/versions/19.0/ug-editor/glossary/track-changes.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/dg-oxygen-css-functions.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/versions/19.1/ug-chemistry/topics/ch_pdf_output.html#ch_accessibility</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/doc/versions/20.1/ug-chemistry/topics/ch_layout.html#ch_lists</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/documentation.html</oxyd:link>
+            <oxyd:link count="8">https://www.oxygenxml.com/download.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/eula.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/eula_author.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/eula_content_fusion.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/eula_developer.html</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/eula_webauthor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/eula_webhelp.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/events/2014/oXygen-user-meetup-Prague.html#Schematron_development_with_oXygen</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/events/2015/dita-ot_day.html#Creating_DITA_OT_constraint_specialisation_plugins</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/events/2017/DITA_OT_Day/Using_CSS_to_style_the_PDF_output.pdf</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/events/2018/webinar_creating_custom_publishing_templates_for_webhelp_and_pdf_output.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/external_resources.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/feature_matrix.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/forum/</oxyd:link>
+            <oxyd:link count="13">https://www.oxygenxml.com/license_server.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/license_server.html#floating_license_server</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/license_server.html#floating_license_servlet</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/mailinglists.html#oxygen-sdk</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.Editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.FileBrowsingDialog.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.UrlChooser.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.WebappMessage.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.Workspace.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.api.Workspace.html#.LoadingOptions</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/sync.view.ViewManager.html#hideAppBar</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-customaction.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-customview.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-dialog.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-formcontrol.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-removeaction.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/tutorial-urlchooser.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/maven/com/oxygenxml/oxygen-webapp/21.0.0.0/jsdoc/workspace.js.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/oxygen_scripting.html</oxyd:link>
+            <oxyd:link count="37">https://www.oxygenxml.com/oxygen_sdk.html</oxyd:link>
+            <oxyd:link count="5">https://www.oxygenxml.com/oxygen_sdk.html#Developer_Plugins</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/oxygen_sdk.html#XML_Editor_Authoring_SDK</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/oxygen_sdk.html#oXygen_Eclipse_plugin</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/oxygen_sdk.html#oXygen_component</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/oxygen_sdk.html#oXygen_standalone_applet_integration</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/oxygen_sdk.html#oxygen_webapp_integration</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/oxygen_sdk/download.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/oxygen_sdk/oxygen_eclipse_integration.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/oxygen_sdk/oxygen_standalone_plugins.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/oxygen_sdk/oxygen_webapp_component.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/oxygen_webapp_running_and_testing.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/php/get_oxygen_sample_framework.php</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/register.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/registerCode.html</oxyd:link>
+            <oxyd:link count="7">https://www.oxygenxml.com/sdk_agreement.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/support.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/techSupport.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/technical_support.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/thirdparty-webauthor/</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/thirdparty/</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/videos.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/webapp/#contact</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/webauthor/#download</oxyd:link>
+            <oxyd:link count="9">https://www.oxygenxml.com/webhelp-skin-builder</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_author/whats_new.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_developer/whats_new.html</oxyd:link>
+            <oxyd:link count="3">https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_editor/section508.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_editor/whats_new.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/xml_json_converter.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/xml_web_author.html</oxyd:link>
+            <oxyd:link count="2">https://www.oxygenxml.com/xml_web_author/buy_oxygen_xml_web_author.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/xml_web_author/download_oxygenxml_web_author.html</oxyd:link>
+            <oxyd:link count="4">https://www.oxygenxml.com/xml_web_author/download_oxygenxml_web_author.html?os=All</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_webhelp.html</oxyd:link>
+            <oxyd:link count="6">https://www.oxygenxml.com/xml_webhelp/download_oxygenxml_webhelp.html</oxyd:link>
+            <oxyd:link count="1">https://www.oxygenxml.com/xml_webhelp/download_oxygenxml_webhelp.html?os=DocBook</oxyd:link>
+            <oxyd:link count="1">https://www.postgresql.org/</oxyd:link>
+            <oxyd:link count="2">https://www.princexml.com/</oxyd:link>
+            <oxyd:link count="4">https://www.saxonica.com/documentation9.5/extensibility/integratedfunctions/</oxyd:link>
+            <oxyd:link count="2">https://www.section508.gov/</oxyd:link>
+            <oxyd:link count="1">https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/Style/CSS/Overview.en.html</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#adjacent-d-combinators</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#adjacent-i-combinators</oxyd:link>
+            <oxyd:link count="7">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#attribute-selectors</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#child-combinators</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#descendant-combinators</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#first-letter</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#gen-content</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#id-selectors</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#lang-pseudo</oxyd:link>
+            <oxyd:link count="10">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#structural-pseudos</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#subject-pseudo</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#type-selectors</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2000/WD-css3-selectors-20001005/#universal-selector</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/2012/WD-css3-break-20120823/#best-breaks</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/CSS2/page.html</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/css-gcpm-3/#bookmarks</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/css-gcpm-3/#target-counter</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/css-lists-3/#marker-pseudo-element</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/css3-page/#margin-boxes</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/css3-page/#using-named-pages</oxyd:link>
+            <oxyd:link count="3">https://www.w3.org/TR/html4/sgml/entities.html</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xhtml-basic/</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/xhtml2/</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xinclude-11/</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xinclude-11/#att-copy-example</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xinclude-11/#attribute-copying</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xinclude-11/#text-example-2</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xml-model/</oxyd:link>
+            <oxyd:link count="6">https://www.w3.org/TR/xml-model/#the-xml-model-processing-instruction</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xmlschema-2/#dt-ccesN</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xpath-functions-31/#func-json-doc</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xpath-functions-31/#func-json-to-xml</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xpath-functions-31/#json-functions</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xpath-functions/#func-current-date</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xptr-xpointer/</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xslt-30/#dt-sequence-constructor</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/xslt-30/#element-result-document</oxyd:link>
+            <oxyd:link count="1">https://www.w3.org/TR/xslt-30/#element-text</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/TR/xslt-30/#text-value-templates</oxyd:link>
+            <oxyd:link count="4">https://www.w3.org/TR/xslt20/#date-picture-string</oxyd:link>
+            <oxyd:link count="2">https://www.w3.org/WAI/tutorials/images/decision-tree/</oxyd:link>
+            <oxyd:link count="2">https://www.w3schools.com/xml/xpath_examples.asp</oxyd:link>
+            <oxyd:link count="1">https://xmlgraphics.apache.org/fop/</oxyd:link>
+            <oxyd:link count="1">https://xmlgraphics.apache.org/fop/2.1/fonts.html</oxyd:link>
+            <oxyd:link count="1">https://xmlgraphics.apache.org/fop/2.3/configuration.html</oxyd:link>
+            <oxyd:link count="1">https://xmlgraphics.apache.org/fop/2.3/fonts.html</oxyd:link>
+            <oxyd:link count="1">https://xmlgraphics.apache.org/fop/fop-pdf-images.html#download</oxyd:link>
+            <oxyd:link count="1">https://xmlpress.net/publications/dita/dita-for-print/</oxyd:link>
+            <oxyd:link count="2">https://youtu.be/HoCJ7sAkE7Q</oxyd:link>
+         </oxyd:links>
+      </oxyd:externalLinks>
+   </oxyd:stats>
+</oxyd:report>
