@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-    Copyright 2001-2017 Syncro Soft SRL. All rights reserved.
+    Copyright 2001-2018 Syncro Soft SRL. All rights reserved.
     This is licensed under MPL 2.0.
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -85,8 +85,21 @@ th{padding:4px}
         <xsl:param name="label"/>
         <xsl:param name="number" select="."/>
         <xsl:param name="doc"/>
+        <xsl:param name="presentAsLink" select="false()"/>
         <tr>
-            <td title="{$doc}"><xsl:value-of select="$label"/></td>
+            <td title="{$doc}">
+                <xsl:choose>
+                    <xsl:when test="$presentAsLink">
+                      <xsl:element name="a">
+                          <xsl:attribute name="href" select="$label"/>
+                          <xsl:value-of select="$label"/>
+                      </xsl:element>  
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="$label"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                </td>
             <td align="right"><xsl:value-of select="format-number($number, '###,###,###')"/></td>
         </tr>
     </xsl:template>
@@ -375,8 +388,21 @@ th{padding:4px}
         </xsl:call-template>
     </xsl:template>
     
-    <!-- CONDITIONAL ATTRIBUTES -->
-    <xsl:template match="oxyd:conditionalAttributes" mode="toc">
+<!-- OUTPUTCLASS ATTRIBUTES -->
+    <xsl:template match="oxyd:outputclass" mode="toc">
+        <xsl:if test="count(*) &gt; 0">
+            <span class="tentry"><a href="#outputclassAttributes">Outputclass Attributes</a></span>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="oxyd:outputclass">
+        <xsl:if test="count(*) &gt; 0">
+            <h2 id="outputclassAttributes">Outputclass Attributes</h2>
+            <xsl:call-template name="showValues"/>
+        </xsl:if>
+    </xsl:template>
+    
+<!-- CONDITIONAL ATTRIBUTES -->
+<xsl:template match="oxyd:conditionalAttributes" mode="toc">
         <span class="tentry"><a href="#conditionalAttributes">Conditional Attributes</a></span>
     </xsl:template>
     <xsl:template match="oxyd:conditionalAttributes">
@@ -604,6 +630,7 @@ th{padding:4px}
         <xsl:call-template name="showInfo">
             <xsl:with-param name="label" select="."/>
             <xsl:with-param name="number" select="@count"/>
+            <xsl:with-param name="presentAsLink" select="true()"></xsl:with-param>
         </xsl:call-template>
     </xsl:template>
     

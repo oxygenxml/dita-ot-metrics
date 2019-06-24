@@ -9,4 +9,11 @@
             <xmlcatalog refid="dita.catalog"/>
         </xslt>
     </target>
+    
+    <target name="dita2metrics-report-xml" depends="build-init">
+        <dirname property="dita.temp.dir.fullpath" file="${dita.temp.dir}/dummy.file"/>
+        <xslt in="${args.input}" style="${dita.plugin.com.oxygenxml.dita.metrics.report.dir}/report.xsl" out="${output.dir}/report.xml">
+            <xmlcatalog refid="dita.catalog"/>
+        </xslt>
+    </target>
 </project>

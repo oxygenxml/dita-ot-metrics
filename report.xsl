@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-    Copyright 2001-2017 Syncro Soft SRL. All rights reserved.
+    Copyright 2001-2018 Syncro Soft SRL. All rights reserved.
     This is licensed under MPL 2.0.
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
@@ -180,8 +180,16 @@
                         </xsl:for-each-group>
                     </oxyd:topicAttributes>
                 </oxyd:attributes>
-                
-                <!-- CONDITIONAL ATTRIBUTES -->
+
+ <!-- OUTPUTCLASS ATTRIBUTES -->
+                    <oxyd:outputclass>
+                        <xsl:for-each select="distinct-values($elements/@outputclass/tokenize(normalize-space(.), ' '))">
+                            <xsl:sort select="."/>
+                            <oxyd:attValue><xsl:value-of select="."/></oxyd:attValue>
+                        </xsl:for-each>
+                    </oxyd:outputclass>
+
+ <!-- CONDITIONAL ATTRIBUTES -->
                 <oxyd:conditionalAttributes>
                     <oxyd:audience>
                         <xsl:for-each select="distinct-values($elements/@audience/tokenize(normalize-space(.), ' '))">

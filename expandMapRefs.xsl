@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-    Copyright 2001-2017 Syncro Soft SRL. All rights reserved.
+    Copyright 2001-2018 Syncro Soft SRL. All rights reserved.
     This is licensed under MPL 2.0.
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
