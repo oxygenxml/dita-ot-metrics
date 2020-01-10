@@ -31,7 +31,7 @@ After you obtain those XML reports, you can create a transformation scenario in 
 
 Copyright and License
 ---------------------
-Copyright 2018 Syncro Soft SRL.
+Copyright 2019 Syncro Soft SRL.
 
-This project is licensed under MPL 2.0, see the [LICENSE](LICENSE) file for details.
+This project is licensed under Apache License 2.0, see the [LICENSE](LICENSE) file for details.
 
