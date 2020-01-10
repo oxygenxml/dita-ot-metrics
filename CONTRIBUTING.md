@@ -1,7 +1,6 @@
 This project is an Open Source project and welcomes contributions from everyone who finds it useful or lacking. 
 
-The Project has selected the MPL 2.0 license, popular for its permissive and flexible properties, while still encouraging a collaborative
-community.
+Syncro Soft uses the Apache 2.0 license to strike a balance between open contribution and allowing you to use the software however you would like to.
 
 The license tells you what rights you have that are provided by the copyright holder. It is important that the contributor fully understands what rights they are licensing and agrees to them. Sometimes the copyright holder isn't the contributor, such as when the contributor is doing work on behalf of a company. To make a good faith effort to ensure these criteria are met, Syncro Soft requires the Developer Certificate of Origin (DCO) process to be followed. 
 
