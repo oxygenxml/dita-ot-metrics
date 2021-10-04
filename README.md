@@ -22,6 +22,23 @@ A short description of each reported metric can be found below:
   - Tables containing list of largest and smallest topics and the number of words each one used.
   - Table containing a listing of all links to resources outside of the project.
 
+## Importing the transformation scenario
+
+The plugin repository includes a transformation scenario that you can import to your oXygen project file to make it easier to generate metrics reports.
+
+1. Open your project’s root map in the **DITA Maps Manager** view.
+2. From the menu, select **DITA Maps > Configure Transformation Scenario(s)**.
+3. Click the ![settings](https://user-images.githubusercontent.com/129995/135727362-059f3c05-6218-47ed-9508-6136fcc6e1dd.png) **Settings** menu in the upper right corner of the **Configure Transformation Scenario(s)** dialog.
+4. Select **Import Scenarios**.
+5. Navigate to your local clone of the `dita-metrics-report` plugin repository.
+6. Select the `DITA-Map-Metrics-Report.scenarios` file.
+
+This adds a new _DITA Maps Metrics Report_ scenario to your project, with the following settings:
+
+- The DITA-OT parameter `args.input` is set to `${cf}` _(current file)_.
+- The `dita.dir` parameter is set to `${configured.ditaot.dir}` to use the DITA Open Toolkit installation specified in the oXygen [DITA Preferences](https://www.oxygenxml.com/doc/versions/23.1/ug-editor/topics/preferences-dita.html).
+- The output directory is set to `${cfd}/out/metrics-report` to generate the report in the `/out/metrics-report/` subfolder of the current file directory.
+
 # Visualizing the evolution of metrics between different versions of the documentation
 
 You can try to generate metrics for multiple previous versions of your user's manual and then try to see how various indicators evolved. In order for this to work, you first need to use the "metrics-report-xml" transtype contributed by this plugin to create an XML report for each of the previous user guide versions that you are interested in comparing. You will need version control support to checkout the contents of your user's manual at a specific version.
