@@ -48,20 +48,20 @@
         <xsl:variable name="key" select="@keyref"/>
         <xsl:variable name="keydef" select="$keyspace/oxyd:keyspace/oxyd:key[@value=$key]"/>
         <xsl:variable name="topic" select="$keydef/*[1]/document(@href, .)"/>
-        <xsl:copy>
+      <xsl:copy>
             <xsl:apply-templates select="@*" mode="#current"/>
-            <oxyd:topicref>
-                <xsl:attribute name="xml:base" select="document-uri($topic)"/>
-                <xsl:apply-templates select="$topic" mode="#current"/>
-            </oxyd:topicref>
-            <!-- copy eventual content of the topic ref -->
-            <xsl:apply-templates select="node()" mode="#current"/>
-        </xsl:copy>
+        <xsl:element name="{if(@format='ditamap' or $keydef/*[1]/@format='ditamap') then 'oxyd:mapref' else 'oxyd:topicref'}">
+          <xsl:attribute name="xml:base" select="document-uri($topic)"/>
+          <xsl:apply-templates select="$topic" mode="#current"/>
+        </xsl:element>
+        <!-- copy eventual content of the topic ref -->
+        <xsl:apply-templates select="node()" mode="#current"/>
+      </xsl:copy>
     </xsl:template>
     
 
     <!-- resolve maprefs -->
-    <xsl:template match="*[contains(@class, ' map/topicref ') and @format='ditamap']" priority="100" mode="resolve resolve-map">
+    <xsl:template match="*[contains(@class, ' map/topicref ') and @format='ditamap'][@href]" priority="100" mode="resolve resolve-map">
         <xsl:variable name="map" select="document(@href, .)"/>
         <xsl:copy>
             <xsl:apply-templates select="@*" mode="#current"/>
@@ -75,7 +75,7 @@
     </xsl:template>
     
     <!-- topicset reference -->
-    <xsl:template match="*[contains(@class, ' mapgroup-d/topicsetref ')]" priority="150" mode="resolve resolve-map">
+    <xsl:template match="*[contains(@class, ' mapgroup-d/topicsetref ')][@href]" priority="150" mode="resolve resolve-map">
         <xsl:variable name="map" select="document(substring-before(@href, '#'), .)"/>
         <xsl:variable name="id" select="substring-after(@href, '#')"/>
         <xsl:copy>
